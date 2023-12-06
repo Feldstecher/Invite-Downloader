@@ -1,0 +1,18 @@
+{
+    "vps1": {
+        "ip": "",
+        "username": "",
+        "password": "",
+        "path_to_executable_folder": "/root/crystal/",
+        "sniper": 7,
+        "key_for_stats": ""
+    },
+    "vps2": {
+        "ip": "",
+        "username": "",
+        "password": "",
+        "path_to_executable_folder": "/root/crystal/",
+        "sniper": 7,
+        "key_for_stats": ""
+    }
+}
