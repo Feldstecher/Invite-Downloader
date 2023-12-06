@@ -1,5 +1,5 @@
 # Invite Downloader
-Downloads invites from multiple servers by using multithreading.
+Downloads invites from multiple servers.
 
 ## How to use:
 1. Copy and paste your servers.json from your Queue Bot into the folder
